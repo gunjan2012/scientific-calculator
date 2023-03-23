@@ -9,7 +9,7 @@
 3. `Bootstrap`: Used for dropdowns and text styling.
 4. `Javascript`: For adding the functionality on calculator.
 
-Calc link:
+Calc link: https://gunjan2012.github.io/scientific-calculator/
 
 ## Working Of Calculator:
 
