@@ -28,3 +28,7 @@ Calc link:
 13. `Memory` : it will display memory value.</br>
 14. `log2X` : it will give answer with log base 2. </br>
 15. `log` : it will give answer with log base 10. </br>
+
+## Scientific Calculator:
+
+![img](/images/calc.png)
